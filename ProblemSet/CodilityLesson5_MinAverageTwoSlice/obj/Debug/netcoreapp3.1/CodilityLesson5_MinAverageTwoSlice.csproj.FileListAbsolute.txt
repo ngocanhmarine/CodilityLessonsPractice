@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\bin\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\bin\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\bin\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\bin\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\bin\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\bin\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\obj\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\obj\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\obj\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\obj\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\obj\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\obj\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\obj\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_MinAverageTwoSlice\obj\Debug\netcoreapp3.1\CodilityLesson5_MinAverageTwoSlice.csproj.AssemblyReference.cache

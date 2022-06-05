@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\bin\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\bin\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\bin\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\bin\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\bin\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\bin\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\obj\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\obj\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\obj\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\obj\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\obj\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\obj\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_PassingCars\obj\Debug\netcoreapp3.1\CodilityLesson5_PassingCars.genruntimeconfig.cache

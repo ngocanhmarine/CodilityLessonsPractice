@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodilityLesson4_PermCheck/1.0.0": {
+        "runtime": {
+          "CodilityLesson4_PermCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodilityLesson4_PermCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

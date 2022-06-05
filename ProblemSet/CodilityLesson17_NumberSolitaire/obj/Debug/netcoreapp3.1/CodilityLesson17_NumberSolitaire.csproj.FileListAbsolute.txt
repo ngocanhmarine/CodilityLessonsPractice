@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\bin\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\bin\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\bin\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\bin\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\bin\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\bin\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\obj\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\obj\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\obj\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\obj\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\obj\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\obj\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\obj\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_NumberSolitaire\obj\Debug\netcoreapp3.1\CodilityLesson17_NumberSolitaire.csproj.AssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodilityLesson11_CountNonDivisible/1.0.0": {
+        "runtime": {
+          "CodilityLesson11_CountNonDivisible.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodilityLesson11_CountNonDivisible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

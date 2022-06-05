@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\bin\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\bin\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\bin\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\bin\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\bin\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\bin\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\obj\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\obj\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\obj\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\obj\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\obj\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\obj\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\obj\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson17_MaxAbsSum\obj\Debug\netcoreapp3.1\CodilityLesson17_MaxAbsSum.genruntimeconfig.cache

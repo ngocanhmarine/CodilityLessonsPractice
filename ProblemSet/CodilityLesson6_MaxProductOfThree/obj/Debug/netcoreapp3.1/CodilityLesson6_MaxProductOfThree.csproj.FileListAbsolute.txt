@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\bin\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\bin\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\bin\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\bin\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\bin\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\bin\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\obj\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\obj\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\obj\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\obj\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\obj\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\obj\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_MaxProductOfThree\obj\Debug\netcoreapp3.1\CodilityLesson6_MaxProductOfThree.genruntimeconfig.cache

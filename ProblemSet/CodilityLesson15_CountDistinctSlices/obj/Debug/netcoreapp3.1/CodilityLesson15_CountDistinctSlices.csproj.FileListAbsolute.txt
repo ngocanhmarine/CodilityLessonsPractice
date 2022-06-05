@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\bin\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\bin\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\bin\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\bin\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\bin\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\bin\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\obj\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\obj\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\obj\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\obj\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\obj\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\obj\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\obj\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountDistinctSlices\obj\Debug\netcoreapp3.1\CodilityLesson15_CountDistinctSlices.csproj.AssemblyReference.cache

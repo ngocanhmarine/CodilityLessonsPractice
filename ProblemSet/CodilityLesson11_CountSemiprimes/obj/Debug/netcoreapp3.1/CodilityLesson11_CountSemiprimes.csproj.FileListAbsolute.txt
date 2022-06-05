@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\obj\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\obj\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\obj\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\obj\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\obj\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\bin\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\bin\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\bin\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\bin\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\bin\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\bin\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\obj\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\obj\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson11_CountSemiprimes\obj\Debug\netcoreapp3.1\CodilityLesson11_CountSemiprimes.genruntimeconfig.cache

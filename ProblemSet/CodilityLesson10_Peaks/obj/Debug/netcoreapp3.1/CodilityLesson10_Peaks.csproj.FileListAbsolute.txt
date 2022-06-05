@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\bin\Debug\netcoreapp3.1\CodilityLesson10_Peaks.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\bin\Debug\netcoreapp3.1\CodilityLesson10_Peaks.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\bin\Debug\netcoreapp3.1\CodilityLesson10_Peaks.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\bin\Debug\netcoreapp3.1\CodilityLesson10_Peaks.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\bin\Debug\netcoreapp3.1\CodilityLesson10_Peaks.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\bin\Debug\netcoreapp3.1\CodilityLesson10_Peaks.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\obj\Debug\netcoreapp3.1\CodilityLesson10_Peaks.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\obj\Debug\netcoreapp3.1\CodilityLesson10_Peaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\obj\Debug\netcoreapp3.1\CodilityLesson10_Peaks.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\obj\Debug\netcoreapp3.1\CodilityLesson10_Peaks.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\obj\Debug\netcoreapp3.1\CodilityLesson10_Peaks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\obj\Debug\netcoreapp3.1\CodilityLesson10_Peaks.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\obj\Debug\netcoreapp3.1\CodilityLesson10_Peaks.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_Peaks\obj\Debug\netcoreapp3.1\CodilityLesson10_Peaks.genruntimeconfig.cache

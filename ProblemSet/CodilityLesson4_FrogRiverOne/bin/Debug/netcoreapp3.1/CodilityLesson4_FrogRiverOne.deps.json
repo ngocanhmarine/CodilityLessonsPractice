@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodilityLesson4_FrogRiverOne/1.0.0": {
+        "runtime": {
+          "CodilityLesson4_FrogRiverOne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodilityLesson4_FrogRiverOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

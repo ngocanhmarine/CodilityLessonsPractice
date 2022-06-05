@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodilityLesson4_MissingInteger/1.0.0": {
+        "runtime": {
+          "CodilityLesson4_MissingInteger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodilityLesson4_MissingInteger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

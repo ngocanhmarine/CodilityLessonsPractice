@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\bin\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\bin\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\bin\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\bin\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\bin\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\bin\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\obj\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\obj\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\obj\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\obj\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\obj\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\obj\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_FrogRiverOne\obj\Debug\netcoreapp3.1\CodilityLesson4_FrogRiverOne.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\bin\Debug\netcoreapp3.1\CodilityLesson7_Fish.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\bin\Debug\netcoreapp3.1\CodilityLesson7_Fish.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\bin\Debug\netcoreapp3.1\CodilityLesson7_Fish.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\bin\Debug\netcoreapp3.1\CodilityLesson7_Fish.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\bin\Debug\netcoreapp3.1\CodilityLesson7_Fish.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\bin\Debug\netcoreapp3.1\CodilityLesson7_Fish.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\obj\Debug\netcoreapp3.1\CodilityLesson7_Fish.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\obj\Debug\netcoreapp3.1\CodilityLesson7_Fish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\obj\Debug\netcoreapp3.1\CodilityLesson7_Fish.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\obj\Debug\netcoreapp3.1\CodilityLesson7_Fish.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\obj\Debug\netcoreapp3.1\CodilityLesson7_Fish.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\obj\Debug\netcoreapp3.1\CodilityLesson7_Fish.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\obj\Debug\netcoreapp3.1\CodilityLesson7_Fish.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_Fish\obj\Debug\netcoreapp3.1\CodilityLesson7_Fish.genruntimeconfig.cache

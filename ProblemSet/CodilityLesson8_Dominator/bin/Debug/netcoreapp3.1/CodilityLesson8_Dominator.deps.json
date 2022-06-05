@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodilityLesson8_Dominator/1.0.0": {
+        "runtime": {
+          "CodilityLesson8_Dominator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodilityLesson8_Dominator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

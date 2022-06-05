@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\bin\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\bin\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\bin\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\bin\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\bin\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\bin\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\obj\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\obj\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\obj\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\obj\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\obj\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\obj\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\obj\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_FibFrog\obj\Debug\netcoreapp3.1\CodilityLesson13_FibFrog.genruntimeconfig.cache

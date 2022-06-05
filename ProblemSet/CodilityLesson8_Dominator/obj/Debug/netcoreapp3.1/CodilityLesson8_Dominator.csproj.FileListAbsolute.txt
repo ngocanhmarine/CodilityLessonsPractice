@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\bin\Debug\netcoreapp3.1\CodilityLesson8_Dominator.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\bin\Debug\netcoreapp3.1\CodilityLesson8_Dominator.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\bin\Debug\netcoreapp3.1\CodilityLesson8_Dominator.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\bin\Debug\netcoreapp3.1\CodilityLesson8_Dominator.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\bin\Debug\netcoreapp3.1\CodilityLesson8_Dominator.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\bin\Debug\netcoreapp3.1\CodilityLesson8_Dominator.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\obj\Debug\netcoreapp3.1\CodilityLesson8_Dominator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\obj\Debug\netcoreapp3.1\CodilityLesson8_Dominator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\obj\Debug\netcoreapp3.1\CodilityLesson8_Dominator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\obj\Debug\netcoreapp3.1\CodilityLesson8_Dominator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\obj\Debug\netcoreapp3.1\CodilityLesson8_Dominator.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\obj\Debug\netcoreapp3.1\CodilityLesson8_Dominator.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_Dominator\obj\Debug\netcoreapp3.1\CodilityLesson8_Dominator.genruntimeconfig.cache

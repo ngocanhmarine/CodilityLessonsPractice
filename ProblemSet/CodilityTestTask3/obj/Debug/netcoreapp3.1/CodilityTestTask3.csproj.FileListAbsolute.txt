@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\bin\Debug\netcoreapp3.1\CodilityTestTask3.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\bin\Debug\netcoreapp3.1\CodilityTestTask3.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\bin\Debug\netcoreapp3.1\CodilityTestTask3.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\bin\Debug\netcoreapp3.1\CodilityTestTask3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\bin\Debug\netcoreapp3.1\CodilityTestTask3.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\bin\Debug\netcoreapp3.1\CodilityTestTask3.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\obj\Debug\netcoreapp3.1\CodilityTestTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\obj\Debug\netcoreapp3.1\CodilityTestTask3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\obj\Debug\netcoreapp3.1\CodilityTestTask3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\obj\Debug\netcoreapp3.1\CodilityTestTask3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\obj\Debug\netcoreapp3.1\CodilityTestTask3.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\obj\Debug\netcoreapp3.1\CodilityTestTask3.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\obj\Debug\netcoreapp3.1\CodilityTestTask3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTestTask3\obj\Debug\netcoreapp3.1\CodilityTestTask3.csproj.AssemblyReference.cache

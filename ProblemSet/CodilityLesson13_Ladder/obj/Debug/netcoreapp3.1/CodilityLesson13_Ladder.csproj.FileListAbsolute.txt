@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\bin\Debug\netcoreapp3.1\CodilityLesson13_Ladder.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\bin\Debug\netcoreapp3.1\CodilityLesson13_Ladder.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\bin\Debug\netcoreapp3.1\CodilityLesson13_Ladder.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\bin\Debug\netcoreapp3.1\CodilityLesson13_Ladder.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\bin\Debug\netcoreapp3.1\CodilityLesson13_Ladder.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\bin\Debug\netcoreapp3.1\CodilityLesson13_Ladder.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\obj\Debug\netcoreapp3.1\CodilityLesson13_Ladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\obj\Debug\netcoreapp3.1\CodilityLesson13_Ladder.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\obj\Debug\netcoreapp3.1\CodilityLesson13_Ladder.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\obj\Debug\netcoreapp3.1\CodilityLesson13_Ladder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\obj\Debug\netcoreapp3.1\CodilityLesson13_Ladder.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\obj\Debug\netcoreapp3.1\CodilityLesson13_Ladder.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\obj\Debug\netcoreapp3.1\CodilityLesson13_Ladder.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson13_Ladder\obj\Debug\netcoreapp3.1\CodilityLesson13_Ladder.csproj.AssemblyReference.cache

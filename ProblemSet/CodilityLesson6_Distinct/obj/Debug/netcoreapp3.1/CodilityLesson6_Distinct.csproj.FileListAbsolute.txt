@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\obj\Debug\netcoreapp3.1\CodilityLesson6_Distinct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\obj\Debug\netcoreapp3.1\CodilityLesson6_Distinct.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\obj\Debug\netcoreapp3.1\CodilityLesson6_Distinct.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\obj\Debug\netcoreapp3.1\CodilityLesson6_Distinct.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\bin\Debug\netcoreapp3.1\CodilityLesson6_Distinct.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\bin\Debug\netcoreapp3.1\CodilityLesson6_Distinct.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\bin\Debug\netcoreapp3.1\CodilityLesson6_Distinct.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\bin\Debug\netcoreapp3.1\CodilityLesson6_Distinct.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\bin\Debug\netcoreapp3.1\CodilityLesson6_Distinct.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\bin\Debug\netcoreapp3.1\CodilityLesson6_Distinct.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\obj\Debug\netcoreapp3.1\CodilityLesson6_Distinct.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\obj\Debug\netcoreapp3.1\CodilityLesson6_Distinct.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Distinct\obj\Debug\netcoreapp3.1\CodilityLesson6_Distinct.genruntimeconfig.cache

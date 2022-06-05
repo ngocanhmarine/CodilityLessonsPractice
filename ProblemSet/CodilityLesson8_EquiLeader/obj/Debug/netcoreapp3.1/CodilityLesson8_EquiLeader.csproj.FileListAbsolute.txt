@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\bin\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\bin\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\bin\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\bin\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\bin\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\bin\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\obj\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\obj\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\obj\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\obj\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\obj\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\obj\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\obj\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson8_EquiLeader\obj\Debug\netcoreapp3.1\CodilityLesson8_EquiLeader.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\bin\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\bin\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\bin\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\bin\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\bin\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\bin\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\obj\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\obj\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\obj\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\obj\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\obj\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\obj\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson12_ChocolatesByNumbers\obj\Debug\netcoreapp3.1\CodilityLesson12_ChocolatesByNumbers.genruntimeconfig.cache

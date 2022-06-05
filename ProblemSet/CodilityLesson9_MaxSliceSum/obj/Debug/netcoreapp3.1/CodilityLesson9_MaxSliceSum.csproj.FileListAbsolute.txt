@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxSliceSum.csproj.AssemblyReference.cache

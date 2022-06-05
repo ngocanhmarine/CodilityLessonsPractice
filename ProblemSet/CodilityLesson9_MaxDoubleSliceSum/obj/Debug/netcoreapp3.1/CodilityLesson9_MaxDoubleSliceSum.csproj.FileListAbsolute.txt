@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\bin\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson9_MaxDoubleSliceSum\obj\Debug\netcoreapp3.1\CodilityLesson9_MaxDoubleSliceSum.csproj.AssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodilityLesson7_Brackets/1.0.0": {
+        "runtime": {
+          "CodilityLesson7_Brackets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodilityLesson7_Brackets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

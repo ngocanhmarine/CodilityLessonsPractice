@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\bin\Debug\net5.0\1606E.Arena.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\bin\Debug\net5.0\1606E.Arena.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\bin\Debug\net5.0\1606E.Arena.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\bin\Debug\net5.0\1606E.Arena.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\bin\Debug\net5.0\1606E.Arena.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\bin\Debug\net5.0\ref\1606E.Arena.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\bin\Debug\net5.0\1606E.Arena.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\1606E.Arena.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\1606E.Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\1606E.Arena.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\1606E.Arena.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\1606E.Arena.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\1606E.Arena.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\ref\1606E.Arena.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\1606E.Arena.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\1606E.Arena\obj\Debug\net5.0\1606E.Arena.genruntimeconfig.cache

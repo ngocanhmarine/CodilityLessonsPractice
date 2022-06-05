@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\bin\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\bin\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\bin\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\bin\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\bin\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\bin\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\obj\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\obj\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\obj\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\obj\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\obj\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\obj\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\obj\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_MinAbsSumOfTwo\obj\Debug\netcoreapp3.1\CodilityLesson15_MinAbsSumOfTwo.csproj.AssemblyReference.cache

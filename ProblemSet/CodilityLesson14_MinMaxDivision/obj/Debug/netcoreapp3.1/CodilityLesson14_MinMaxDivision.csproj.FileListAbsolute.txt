@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\bin\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\bin\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\bin\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\bin\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\bin\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\bin\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\obj\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\obj\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\obj\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\obj\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\obj\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\obj\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\obj\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_MinMaxDivision\obj\Debug\netcoreapp3.1\CodilityLesson14_MinMaxDivision.genruntimeconfig.cache

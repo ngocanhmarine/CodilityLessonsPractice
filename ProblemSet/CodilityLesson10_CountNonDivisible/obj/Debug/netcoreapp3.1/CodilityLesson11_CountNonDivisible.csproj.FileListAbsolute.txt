@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\bin\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\bin\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\bin\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\bin\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\bin\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\bin\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\obj\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\obj\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\obj\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\obj\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\obj\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\obj\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\obj\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountNonDivisible\obj\Debug\netcoreapp3.1\CodilityLesson11_CountNonDivisible.genruntimeconfig.cache

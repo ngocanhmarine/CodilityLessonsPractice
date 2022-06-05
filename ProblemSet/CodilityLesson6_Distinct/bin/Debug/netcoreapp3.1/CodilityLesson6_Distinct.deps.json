@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodilityLesson6_Distinct/1.0.0": {
+        "runtime": {
+          "CodilityLesson6_Distinct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodilityLesson6_Distinct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

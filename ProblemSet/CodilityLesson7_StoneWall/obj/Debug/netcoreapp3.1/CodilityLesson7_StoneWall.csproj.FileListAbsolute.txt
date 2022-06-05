@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\bin\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\bin\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\bin\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\bin\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\bin\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\bin\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\obj\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\obj\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\obj\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\obj\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\obj\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\obj\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\obj\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson7_StoneWall\obj\Debug\netcoreapp3.1\CodilityLesson7_StoneWall.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\bin\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\bin\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\bin\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\bin\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\bin\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\bin\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\obj\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\obj\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\obj\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\obj\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\obj\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\obj\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\obj\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson14_NailingPlanks\obj\Debug\netcoreapp3.1\CodilityLesson14_NailingPlanks.genruntimeconfig.cache

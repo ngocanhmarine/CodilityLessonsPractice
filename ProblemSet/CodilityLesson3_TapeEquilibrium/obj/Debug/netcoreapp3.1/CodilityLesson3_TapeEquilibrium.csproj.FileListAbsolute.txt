@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\bin\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\bin\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\bin\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\bin\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\bin\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\bin\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\obj\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\obj\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\obj\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\obj\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\obj\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\obj\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_TapeEquilibrium\obj\Debug\netcoreapp3.1\CodilityLesson3_TapeEquilibrium.genruntimeconfig.cache

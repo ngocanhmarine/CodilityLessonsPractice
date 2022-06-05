@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\bin\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\bin\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\bin\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\bin\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\bin\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\bin\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\obj\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\obj\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\obj\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\obj\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\obj\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\obj\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson15_CountTriangles\obj\Debug\netcoreapp3.1\CodilityLesson15_CountTriangles.genruntimeconfig.cache

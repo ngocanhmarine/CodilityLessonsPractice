@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\obj\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\obj\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\obj\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\obj\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\bin\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\bin\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\bin\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\bin\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\bin\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\bin\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\obj\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\obj\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson3_PermMissingElem\obj\Debug\netcoreapp3.1\CodilityLesson3_PermMissingElem.genruntimeconfig.cache

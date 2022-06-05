@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodilityLesson17_NumberSolitaire/1.0.0": {
+        "runtime": {
+          "CodilityLesson17_NumberSolitaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodilityLesson17_NumberSolitaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

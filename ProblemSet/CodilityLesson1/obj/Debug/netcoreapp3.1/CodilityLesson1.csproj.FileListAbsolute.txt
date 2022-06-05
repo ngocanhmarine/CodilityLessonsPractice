@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\bin\Debug\netcoreapp3.1\CodilityLesson1.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\bin\Debug\netcoreapp3.1\CodilityLesson1.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\bin\Debug\netcoreapp3.1\CodilityLesson1.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\bin\Debug\netcoreapp3.1\CodilityLesson1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\bin\Debug\netcoreapp3.1\CodilityLesson1.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\bin\Debug\netcoreapp3.1\CodilityLesson1.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\obj\Debug\netcoreapp3.1\CodilityLesson1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\obj\Debug\netcoreapp3.1\CodilityLesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\obj\Debug\netcoreapp3.1\CodilityLesson1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\obj\Debug\netcoreapp3.1\CodilityLesson1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\obj\Debug\netcoreapp3.1\CodilityLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\obj\Debug\netcoreapp3.1\CodilityLesson1.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\obj\Debug\netcoreapp3.1\CodilityLesson1.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson1\obj\Debug\netcoreapp3.1\CodilityLesson1.genruntimeconfig.cache

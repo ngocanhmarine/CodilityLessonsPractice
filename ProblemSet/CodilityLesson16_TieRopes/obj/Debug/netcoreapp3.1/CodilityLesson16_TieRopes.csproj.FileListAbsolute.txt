@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\bin\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\bin\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\bin\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\bin\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\bin\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\bin\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\obj\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\obj\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\obj\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\obj\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\obj\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\obj\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\obj\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson16_TieRopes\obj\Debug\netcoreapp3.1\CodilityLesson16_TieRopes.csproj.AssemblyReference.cache

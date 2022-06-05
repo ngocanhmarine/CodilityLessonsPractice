@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\bin\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\bin\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\bin\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\bin\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\bin\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\bin\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\obj\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\obj\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\obj\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\obj\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\obj\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\obj\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_PermCheck\obj\Debug\netcoreapp3.1\CodilityLesson4_PermCheck.genruntimeconfig.cache

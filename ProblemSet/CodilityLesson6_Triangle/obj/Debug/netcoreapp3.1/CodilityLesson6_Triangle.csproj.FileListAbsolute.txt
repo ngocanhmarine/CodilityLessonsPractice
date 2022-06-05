@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\bin\Debug\netcoreapp3.1\CodilityLesson6_Triangle.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\bin\Debug\netcoreapp3.1\CodilityLesson6_Triangle.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\bin\Debug\netcoreapp3.1\CodilityLesson6_Triangle.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\bin\Debug\netcoreapp3.1\CodilityLesson6_Triangle.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\bin\Debug\netcoreapp3.1\CodilityLesson6_Triangle.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\bin\Debug\netcoreapp3.1\CodilityLesson6_Triangle.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\obj\Debug\netcoreapp3.1\CodilityLesson6_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\obj\Debug\netcoreapp3.1\CodilityLesson6_Triangle.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\obj\Debug\netcoreapp3.1\CodilityLesson6_Triangle.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\obj\Debug\netcoreapp3.1\CodilityLesson6_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\obj\Debug\netcoreapp3.1\CodilityLesson6_Triangle.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\obj\Debug\netcoreapp3.1\CodilityLesson6_Triangle.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson6_Triangle\obj\Debug\netcoreapp3.1\CodilityLesson6_Triangle.genruntimeconfig.cache

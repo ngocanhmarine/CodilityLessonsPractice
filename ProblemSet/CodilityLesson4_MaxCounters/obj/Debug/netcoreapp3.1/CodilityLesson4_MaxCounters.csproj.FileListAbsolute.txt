@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\bin\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\bin\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\bin\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\bin\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\bin\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\bin\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\obj\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\obj\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\obj\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\obj\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\obj\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\obj\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\obj\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson4_MaxCounters\obj\Debug\netcoreapp3.1\CodilityLesson4_MaxCounters.csproj.AssemblyReference.cache

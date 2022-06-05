@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\bin\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\bin\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\bin\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\bin\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\bin\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\bin\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\obj\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\obj\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\obj\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\obj\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\obj\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\obj\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_CountFactors\obj\Debug\netcoreapp3.1\CodilityLesson10_CountFactors.genruntimeconfig.cache

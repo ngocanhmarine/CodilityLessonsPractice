@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\bin\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\bin\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\bin\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\bin\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\bin\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\bin\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\obj\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\obj\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\obj\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\obj\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\obj\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\obj\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\obj\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson5_CountDiv\obj\Debug\netcoreapp3.1\CodilityLesson5_CountDiv.csproj.AssemblyReference.cache

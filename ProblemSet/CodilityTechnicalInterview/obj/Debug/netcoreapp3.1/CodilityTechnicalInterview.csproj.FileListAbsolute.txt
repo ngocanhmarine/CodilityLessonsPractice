@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\bin\Debug\netcoreapp3.1\CodilityTechnicalInterview.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\bin\Debug\netcoreapp3.1\CodilityTechnicalInterview.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\bin\Debug\netcoreapp3.1\CodilityTechnicalInterview.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\bin\Debug\netcoreapp3.1\CodilityTechnicalInterview.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\bin\Debug\netcoreapp3.1\CodilityTechnicalInterview.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\bin\Debug\netcoreapp3.1\CodilityTechnicalInterview.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\obj\Debug\netcoreapp3.1\CodilityTechnicalInterview.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\obj\Debug\netcoreapp3.1\CodilityTechnicalInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\obj\Debug\netcoreapp3.1\CodilityTechnicalInterview.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\obj\Debug\netcoreapp3.1\CodilityTechnicalInterview.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\obj\Debug\netcoreapp3.1\CodilityTechnicalInterview.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\obj\Debug\netcoreapp3.1\CodilityTechnicalInterview.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\obj\Debug\netcoreapp3.1\CodilityTechnicalInterview.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityTechnicalInterview\obj\Debug\netcoreapp3.1\CodilityTechnicalInterview.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\bin\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\bin\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\bin\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\bin\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\bin\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\bin\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\obj\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\obj\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\obj\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\obj\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\obj\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\obj\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson10_MinPerimeterRectangle\obj\Debug\netcoreapp3.1\CodilityLesson10_MinPerimeterRectangle.genruntimeconfig.cache

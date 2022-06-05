@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\bin\Debug\netcoreapp3.1\TestSendRequest.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\bin\Debug\netcoreapp3.1\TestSendRequest.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\bin\Debug\netcoreapp3.1\TestSendRequest.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\bin\Debug\netcoreapp3.1\TestSendRequest.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\bin\Debug\netcoreapp3.1\TestSendRequest.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\bin\Debug\netcoreapp3.1\TestSendRequest.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\obj\Debug\netcoreapp3.1\TestSendRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\obj\Debug\netcoreapp3.1\TestSendRequest.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\obj\Debug\netcoreapp3.1\TestSendRequest.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\obj\Debug\netcoreapp3.1\TestSendRequest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\obj\Debug\netcoreapp3.1\TestSendRequest.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\obj\Debug\netcoreapp3.1\TestSendRequest.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\obj\Debug\netcoreapp3.1\TestSendRequest.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\TestSendRequest\obj\Debug\netcoreapp3.1\TestSendRequest.csproj.AssemblyReference.cache

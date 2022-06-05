@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\bin\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.exe
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\bin\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.deps.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\bin\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.runtimeconfig.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\bin\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\bin\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\bin\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\obj\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\obj\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\obj\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\obj\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\obj\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.dll
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\obj\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.pdb
+C:\Users\Admin\Desktop\MyApp\CodeForces\ProblemSet\CodilityLesson2_CyclicRotation\obj\Debug\netcoreapp3.1\CodilityLesson2_CyclicRotation.genruntimeconfig.cache
